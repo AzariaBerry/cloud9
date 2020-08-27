@@ -18,7 +18,7 @@ let connection = mysql.createConnection({
     host     : 'localhost',
     user     : 'root',
     database : 'cloud9',
-    password : 'root'
+    password : 'myroots1234@'
 });
 
 // Render homepage
